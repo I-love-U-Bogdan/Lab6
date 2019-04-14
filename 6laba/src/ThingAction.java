@@ -1,0 +1,3 @@
+interface ThingAction {
+    void run();
+}
